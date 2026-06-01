@@ -180,15 +180,20 @@ Status                       |
 
 ---
 
-# 📸 Project Images
+# 📸 Project video
 
 ## Circuit Diagram
 
-Add your circuit diagram here:
+# 🎬 YouTube Tutorial
 
-```text
-/images/circuit_diagram.png
-```
+Learn how to build a Smart Thief Detection System using ESP32, IR Sensor, I2C LCD Display, Buzzer, and LED.
+
+🔗 **Watch Full Video:**
+
+[![ESP32 Thief Detection System](https://img.youtube.com/vi/wt2GLQNmN5c/maxresdefault.jpg)](https://youtu.be/wt2GLQNmN5c?si=xHy_-mekhidg2WZ3)
+
+### 📺 Video Link
+https://youtu.be/wt2GLQNmN5c?si=xHy_-mekhidg2WZ3
 
 
 # 🔍 Applications
