@@ -3,7 +3,7 @@
 <div align="center">
 
 ![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-blue)
-![Arduino](https://img.shields.io/badge/Arduino-IDE-green)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
@@ -171,82 +171,7 @@ Status                       |
   <--------------------------
 ```
 
----
-
-# 📂 Project Structure
-
-```text
-ESP32-Thief-Detection-System
-│
-├── README.md
-├── Thief_Detection_System.ino
-├── Circuit_Diagram.png
-├── Project_Photos
-│   ├── setup.jpg
-│   ├── lcd_display.jpg
-│   └── prototype.jpg
-│
-└── LICENSE
-```
-
----
-
-# 🚀 Getting Started
-
-## Step 1: Install Arduino IDE
-
-Download and install Arduino IDE.
-
----
-
-## Step 2: Install ESP32 Board Support
-
-Open:
-
-```text
-File → Preferences
-```
-
-Paste:
-
-```text
-https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-```
-
-Then:
-
-```text
-Tools → Board Manager
-```
-
-Search:
-
-```text
-ESP32
-```
-
-Install the latest package.
-
----
-
-## Step 3: Install Required Libraries
-
-Install:
-
-```text
-LiquidCrystal_I2C
-Wire
-```
-
-From:
-
-```text
-Sketch → Include Library → Manage Libraries
-```
-
----
-
-## Step 4: Upload Code
+ Upload Code
 
 1. Connect ESP32 using USB.
 2. Select the correct COM Port.
@@ -265,18 +190,6 @@ Add your circuit diagram here:
 /images/circuit_diagram.png
 ```
 
----
-
-## Project Preview
-
-Add project images here:
-
-```text
-/images/project_setup.jpg
-/images/project_working.jpg
-```
-
----
 
 # 🔍 Applications
 
