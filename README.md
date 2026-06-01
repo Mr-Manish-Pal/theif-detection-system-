@@ -5,7 +5,7 @@
 ![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-blue)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ### Smart Security Alarm System Using ESP32
 
