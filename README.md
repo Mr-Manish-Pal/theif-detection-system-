@@ -7,6 +7,10 @@
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
 
+# 👨‍💻 Author
+
+## Manish Pal
+
 ### Smart Security Alarm System Using ESP32
 
 Detect intruders instantly using an IR sensor and trigger visual and audible alerts through an LCD display, LED, and buzzer.
@@ -14,6 +18,18 @@ Detect intruders instantly using an IR sensor and trigger visual and audible ale
 </div>
 
 ---
+
+
+# 🎬  Project Video YouTube Tutorial
+
+Learn how to build a Smart Thief Detection System using ESP32, IR Sensor, I2C LCD Display, Buzzer, and LED.
+
+🔗 **Watch Full Video:**
+
+[![ESP32 Thief Detection System](https://img.youtube.com/vi/wt2GLQNmN5c/maxresdefault.jpg)](https://youtu.be/wt2GLQNmN5c?si=xHy_-mekhidg2WZ3)
+
+### 📺 Video Link
+https://youtu.be/wt2GLQNmN5c?si=xHy_-mekhidg2WZ3
 
 # 📖 Overview
 
@@ -49,62 +65,6 @@ The project is designed for:
 ✅ Low Cost and Easy to Build
 
 ✅ Beginner-Friendly Project
-
----
-
-# 🛠 Hardware Components
-
-| Component | Quantity |
-|------------|----------|
-| ESP32 Development Board | 1 |
-| IR Sensor Module | 1 |
-| 16x2 I2C LCD Display | 1 |
-| Active Buzzer | 1 |
-| LED | 1 |
-| 220Ω Resistor | 1 |
-| Breadboard | 1 |
-| Jumper Wires | As Required |
-
----
-
-# 🔌 Pin Connections
-
-## IR Sensor
-
-| IR Sensor Pin | ESP32 Pin |
-|--------------|-----------|
-| VCC | 3.3V |
-| GND | GND |
-| OUT | GPIO 23 |
-
----
-
-## LED
-
-| LED Pin | ESP32 Pin |
-|----------|-----------|
-| Positive | GPIO 22 |
-| Negative | GND |
-
----
-
-## Buzzer
-
-| Buzzer Pin | ESP32 Pin |
-|------------|-----------|
-| Positive | GPIO 25 |
-| Negative | GND |
-
----
-
-## I2C LCD Display
-
-| LCD Pin | ESP32 Pin |
-|---------|-----------|
-| VCC | 5V |
-| GND | GND |
-| SDA | GPIO 21 |
-| SCL | GPIO 19 |
 
 ---
 
@@ -179,22 +139,6 @@ Status                       |
 4. Upload the code.
 
 ---
-
-# 📸 Project video
-
-## Circuit Diagram
-
-# 🎬 YouTube Tutorial
-
-Learn how to build a Smart Thief Detection System using ESP32, IR Sensor, I2C LCD Display, Buzzer, and LED.
-
-🔗 **Watch Full Video:**
-
-[![ESP32 Thief Detection System](https://img.youtube.com/vi/wt2GLQNmN5c/maxresdefault.jpg)](https://youtu.be/wt2GLQNmN5c?si=xHy_-mekhidg2WZ3)
-
-### 📺 Video Link
-https://youtu.be/wt2GLQNmN5c?si=xHy_-mekhidg2WZ3
-
 
 # 🔍 Applications
 
@@ -299,14 +243,7 @@ Contributions are welcome.
 
 # 📜 License
 
-This project is licensed under the MIT License.
-
 Feel free to use, modify, and distribute this project for educational and personal purposes.
 
 ---
 
-# 👨‍💻 Author
-
-## Manish Pal
-
-Embedded Systems & Electronics Enthusiast
